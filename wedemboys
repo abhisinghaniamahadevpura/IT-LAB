@@ -3,6 +3,8 @@
 <style>
 div {
   background-color: green;
+  bgcolor:green;
+  bgcolor:red;
   text-align: center;
 }
 
